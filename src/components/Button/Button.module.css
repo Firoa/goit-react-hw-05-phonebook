@@ -1,0 +1,9 @@
+.button {
+  width: 96%;
+  height: 30px;
+  background-color: #a939b8;
+  color: aliceblue;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}

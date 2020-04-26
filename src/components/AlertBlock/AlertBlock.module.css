@@ -1,0 +1,11 @@
+.wrapper {
+  position: absolute;
+  width: 96%;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #dd3f3a;
+  color: white;
+}
+.message {
+  padding: 30px, 20px, 10px, 5px;
+}

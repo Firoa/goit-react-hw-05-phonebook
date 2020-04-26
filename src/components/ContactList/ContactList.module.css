@@ -1,0 +1,46 @@
+.contact_field {
+  min-width: 320px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+.contact_list {
+  min-width: 320px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  list-style: none;
+  padding-inline-start: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.button {
+  width: 60px;
+  height: 26px;
+  background-color: #a939b8;
+  color: aliceblue;
+
+  border-radius: 4px;
+}
+.contactListItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  width: 100%;
+  font-size: 16px;
+  border-radius: 4px;
+  height: 30px;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+.ItemInfo {
+  margin-left: 4px;
+  width: 120px;
+}
+.ItemNumber {
+  width: 120px;
+}
